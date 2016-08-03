@@ -1,0 +1,45 @@
+body {
+  width: 100%;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.title {
+  text-align: center;
+  font-size: 90px;
+  font-family: 'Pacifico', cursive;
+}
+.correct {
+  color:green;
+}
+
+.incorrect {
+  color:red;
+}
+
+h1.correct {
+  width:250px;
+}
+
+h1.incorrect {
+  width:250px;
+}
+
+h4 {
+  text-align: center;
+  width: 100%;
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+}
+
+input {
+  width: 30%;
+  height: 20px;
+  border-radius: 5px;
+}
+
+button {
+  width: 10%;
+  height: 20px;
+}

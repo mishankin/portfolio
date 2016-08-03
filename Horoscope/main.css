@@ -1,0 +1,89 @@
+body {
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 10px;
+	background-color: lightgrey;
+	width: 100%;
+	height: 768px;
+	background: url(../img/bgspace.jpg) no-repeat center center fixed;
+}
+
+h1 {
+	font-size: 50px;
+	width: 40%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: lightgrey;
+	text-shadow: 20px;
+}
+
+input {
+	width: 20%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	height: 50px;
+	font-size: 20px;
+	border-radius: 10px;
+	border-color: grey;
+
+}
+
+button {
+	width: 10%;
+    height: 40px;
+    background-color: #337AB7;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-left: auto;
+    margin-top: 45px;
+    color: white;
+}
+
+
+
+#horoscope {
+	text-align: center;
+	width: 20%;
+	margin-left: auto;
+	margin-right: auto;
+	display: inline;
+}
+
+#yourHoroscope {
+	color:white;
+	font-size: 25px;
+
+}
+
+#icon {
+	width: 10%;
+	border-radius: 10px;
+}
+
+#yourSign {
+	font-size: 60px;
+
+
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oswald Regular'), local('Oswald-Regular'), url(https://fonts.gstatic.com/s/oswald/v11/Qw6_9HvXRQGg5mMbFR3Phn-_kf6ByYO6CLYdB4HQE-Y.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oswald Regular'), local('Oswald-Regular'), url(https://fonts.gstatic.com/s/oswald/v11/_P8jt3Y65hJ9c4AzRE0V1OvvDin1pK8aKteLpeZ5c0A.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
