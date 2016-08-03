@@ -1,2 +1,2 @@
 # portfolio
-build anc coded by Mikhail Andreev
+build and coded by Mikhail Andreev
